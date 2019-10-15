@@ -1,45 +1,36 @@
 {
     "books": {
-        "PR6039.O32": [{
-                "H63": {
-                    "title": "The Hobbit",
-                    "author": "J. R. R. Tolkien",
-                    "published": "21 September 1937",
-                    "genre": "Fantasy",
-                    "class": "PR6039.O32 H63",
-                    "in-stock": false
-                }
-            },
-            {
-                "L67": {
-                    "title": "The Fellowship of the Ring",
-                    "author": "J. R. R. Tolkien",
-                    "published": "29 July 1954",
-                    "genre": "Fantasy",
-                    "class": "PR6039.O32 L67",
-                    "in-stock": true
-                }
-            },
-            {
-                "L68": {
-                    "title": "The Two Towers",
-                    "author": "J. R. R. Tolkien",
-                    "published": "11 November 1954",
-                    "genre": "Fantasy",
-                    "class": "PR6039.O32 L68",
-                    "in-stock": true
-                }
-            },
-            {
-                "L69": {
-                    "title": "The Return of the King",
-                    "author": "J. R. R. Tolkien",
-                    "published": "21 September 1937",
-                    "genre": "Fantasy",
-                    "class": "PR6039.O32 L69",
-                    "in-stock": true
-                }
-            }
-        ]
+        "H63": {
+            "title": "The Hobbit",
+            "author": "J. R. R. Tolkien",
+            "published": "21 September 1937",
+            "genre": "Fantasy",
+            "class": "PR6039.O32 H63",
+            "in-stock": false
+        },
+        "L67": {
+            "title": "The Fellowship of the Ring",
+            "author": "J. R. R. Tolkien",
+            "published": "29 July 1954",
+            "genre": "Fantasy",
+            "class": "PR6039.O32 L67",
+            "in-stock": true
+        },
+        "L68": {
+            "title": "The Two Towers",
+            "author": "J. R. R. Tolkien",
+            "published": "11 November 1954",
+            "genre": "Fantasy",
+            "class": "PR6039.O32 L68",
+            "in-stock": true
+        },
+        "L69": {
+            "title": "The Return of the King",
+            "author": "J. R. R. Tolkien",
+            "published": "21 September 1937",
+            "genre": "Fantasy",
+            "class": "PR6039.O32 L69",
+            "in-stock": true
+        }
     }
 }
