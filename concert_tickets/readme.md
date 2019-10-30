@@ -14,13 +14,14 @@ To create a terminal based application in python to buy tickets from "The Jeffer
 
 #### Passing & Completion Notes
 A student passes the benchmark if.... 
-* a user is able to buy a single ticket to a show that is not sold out, log the transaction, and save the show data
+* a user is able to buy a single ticket to a show that is not sold out, log the transaction ~, and save the show data~
 * the application is easy to use and understand
 * the application is all dynamically loaded (i.e. no hard coding), has basic input validation, and the code is well organized
 * runs without error
 
 A student completes this benchmark if...
 * all the conditions above are met
+* NEW: save the show data
 * the user is able to buy multiple tickets (no more than four) without exceeding the number of tickets left available
 * the code is very well organized and extracted into purposeful functions
 * implements some UX features to improve the design and make the information easier to understand
