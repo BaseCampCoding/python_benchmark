@@ -1,3 +1,4 @@
 name, show, code, tickets, price, tax, timestamp
 Sean Anthony, Phoebe Bridgers, pheb, 2, $30.00, $2.10, 2019-10-29 18:08:31.912470
 D�mi Anthony, Big Theif, jbbt, 4, $80.00, $5.60, 2019-10-29 18:09:50.089703
+Sean, The National, ntnl, 4, $120.00, $8.40, 2019-10-30 18:39:43.024998
